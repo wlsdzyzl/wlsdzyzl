@@ -7,4 +7,4 @@
 wlsdzyzl/wlsdzyzl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github-readme-stats.vercel.app/api?username=wlsdzyzl&hide=contribs,prs,issues&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=wlsdzyzl&hide=contribs,prs,issues&show_icons=true&theme=dracula&count_private=true)
