@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wlsdzyzl
 - 👀 I’m interested in **Gaming, Coding (without a specific purpose)**
 - 🌱 I’m currently learning Deep learning, Shape Generation, and Topology Data Analysis
+- ✍️ I used to write blogs at [wlsdzyzl's blog](https://wlsdzyzl.github.io/)
 - 💞️ Welcome to my [Bilibili channel](https://space.bilibili.com/275872287?spm_id_from=444.41.0.0) (**absolutely** nothing to do with study and research)
 
 <!---
